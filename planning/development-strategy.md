@@ -16,3 +16,7 @@
   it will take some time and practice to get used to this
 
 -->
+
+## Wireframe
+
+![Screenshot from 2021-05-29 14-36-27](https://user-images.githubusercontent.com/73791189/120071431-b5547700-c08f-11eb-98fc-50e557efee90.png)
